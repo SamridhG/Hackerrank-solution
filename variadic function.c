@@ -1,4 +1,4 @@
-#include <stdarg.h>
+#include <stdarg.h>//please read readme.md file first
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
